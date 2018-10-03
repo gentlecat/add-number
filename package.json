@@ -1,0 +1,23 @@
+{
+  "name": "add-some-number",
+  "version": "1.0.0",
+  "description": "Just... add some number!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentlecat/add-some-number.git"
+  },
+  "keywords": [
+    "math",
+    "add"
+  ],
+  "author": "Roman Tsukanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gentlecat/add-some-number/issues"
+  },
+  "homepage": "https://github.com/gentlecat/add-some-number#readme"
+}
